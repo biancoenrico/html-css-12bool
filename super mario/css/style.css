@@ -1,0 +1,27 @@
+
+.debug .container{
+    height: 45px;
+}
+.debug [class*="col-"]{
+    background-color: red;
+}
+.debug{
+    background-color: white;
+    border: none;
+}
+.debug [class*="col-"]{
+    padding: 0%;
+}
+.debug .brown{
+    background-color: #683508;
+}
+
+.debug .skin{
+    background-color: #ffc20f;
+}
+.debug .black{
+    background-color: black;
+}
+.debug .blu{
+    background-color: #0000fe;
+}
